@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="img/DevSecOps.png" alt="Logo" width="100%" height="100%">
+  <img src="img/DevSecOps.png" alt="Logo" width="100%" height="500%">
   <p align="center">Home Page</p>
 </div>
 
 <div align="center">
-  <img src="img/home-page.png" alt="Logo" width="100%" height="100%">
+  <img src="img/home-page.png" alt="Logo" width="100%" height="500%">
   <p align="center">Home Page</p>
 </div>
 
